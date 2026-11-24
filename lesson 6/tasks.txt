@@ -1,0 +1,5 @@
+Chores status
+clean  not done
+buy food not done
+book flight done
+remove window done
